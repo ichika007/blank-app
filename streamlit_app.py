@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("🎈 My new Titanic AI")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "DEAD OR SURVIVE"
 )
 import streamlit as st
 import pandas as pd
